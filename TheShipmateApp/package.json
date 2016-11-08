@@ -1,6 +1,10 @@
 {
-    "dependencies": {
-        "tns-core-modules": "2.2.1"
-    },
-    "devDependencies": {}
+  "nativescript": {},
+  "dependencies": {
+    "tns-core-modules": "2.2.1",
+    "google-maps": "3.2.1"
+  },
+  "devDependencies": {
+    "@types/google-maps": "3.1.28"
+  }
 }

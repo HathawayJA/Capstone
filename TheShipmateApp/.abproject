@@ -1,0 +1,28 @@
+{
+  "ProjectName": "TheShipmateApp",
+  "ProjectGuid": "c15344cb-1080-4d34-9be6-2e49e2423639",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TheShipmateApp",
+  "DisplayName": "TheShipmateApp",
+  "Author": "",
+  "Description": "TheShipmateApp",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.2.0",
+  "Framework": "NativeScript"
+}
